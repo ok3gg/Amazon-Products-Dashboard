@@ -11,6 +11,6 @@ Tools used: Excel Power Query, SQL(PostgreSQL), Microsoft Power BI
 
 ### Data Cleaning in Power Query
 
-### Querying using PostgreSQL
+### Querying with PostgreSQL
 
-### Dashboard Building 
+### Building Dashboard with Power BI
