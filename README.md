@@ -1,5 +1,6 @@
 # Amazon-Products-Data-Dashboard
 Dataset Source: https://github.com/luminati-io/eCommerce-dataset-samples/blob/main/amazon-products.csv
+
 Tools used: Excel Power Query, SQL(PostgreSQL), Microsoft Power BI 
 
 ## Process
