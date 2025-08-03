@@ -41,6 +41,9 @@ Note on metrics used:
 AVG(rating) * LOG(1 + AVG(reviews_count))
 
 ### 3. Building Dashboard with Power BI
+File: amazon_products_dashboard.pbix
+
+
 Visuals: Bar/Column Charts, Treemaps, Tables, Area Chart, Slicers
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
