@@ -10,6 +10,7 @@ Tools used: Excel Power Query, SQL(PostgreSQL), Microsoft Power BI
 - 
 
 ### Data Cleaning in Power Query
+<img width="1916" height="764" alt="image" src="https://github.com/user-attachments/assets/97761f4a-bb2b-491b-9113-cb0dea087154" />
 
 ### Querying with PostgreSQL
 
