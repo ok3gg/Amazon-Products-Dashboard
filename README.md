@@ -9,7 +9,7 @@ Tools used: Excel Power Query, SQL(PostgreSQL), Microsoft Power BI
 - Obtain product insights
 - Pricing Patterns, Rating & Review Analysis, Brand Competitiveness
 
-### Data Cleaning in Power Query
+### 1. Data Cleaning in Power Query
 Before Cleaning: Messy data, currency not standardised, categories unclear...
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/97761f4a-bb2b-491b-9113-cb0dea087154" />
@@ -25,7 +25,7 @@ After Cleaning:
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/bc76b1ae-204f-4548-b7e8-da3c2dd41a10" />
 
 
-### Querying with PostgreSQL
+### 2. Querying with PostgreSQL
 Wrote a script(Queries.sql) to obtain various tables:
 
 - Average price by category
@@ -40,7 +40,7 @@ Note on metrics used:
 - Metric for top performance takes into account both the rating and review count:
 AVG(rating) * LOG(1 + AVG(reviews_count))
 
-### Building Dashboard with Power BI
+### 3. Building Dashboard with Power BI
 Visuals: Bar/Column Charts, Treemaps, Tables, Area Chart, Slicers
 
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
