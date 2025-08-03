@@ -26,5 +26,23 @@ After Cleaning:
 
 
 ### Querying with PostgreSQL
+Wrote a script(Queries.sql) to obtain various tables:
+
+- Average price by category
+- Categories with greatest price range
+- Top performing categories
+- Categories with high average rating but low review count
+- Products with high rating but low review count by category
+- Top performing brands by category 
+
+Note on metrics used: 
+- Metric for High Rating & Low Review Count: rating/reviews_count
+- Metric for top performance takes into account both the rating and review count:
+AVG(rating) * LOG(1 + AVG(reviews_count))
 
 ### Building Dashboard with Power BI
+Visuals: Bar/Column Charts, Treemaps, Tables, Area Chart, Slicers
+
+<img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
+
+
