@@ -48,4 +48,7 @@ Visuals: Bar/Column Charts, Treemaps, Tables, Area Chart, Slicers
 
 <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
 
-
+### 4. Insights and Conclusions 
+- Push more marketing opportunities towards underrated categories/products & top performers
+- Office Products, Automotive... etc have greatest price range -> opportunity to alter marketing tactics according to price tiers
+- Musical Instruments, Motorcycle and Powersports... etc have highest average price -> reflects their higher production costs and perceived value by customers 
