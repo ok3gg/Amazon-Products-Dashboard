@@ -46,6 +46,6 @@ File: amazon_products_dashboard.pbix
 
 Visuals: Bar/Column Charts, Treemaps, Tables, Area Chart, Slicers
 
-<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
+<img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/de1f116c-5030-46ed-a8a4-966564d9e609" />
 
 
