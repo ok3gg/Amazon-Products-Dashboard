@@ -7,7 +7,7 @@ Tools used: Excel Power Query, SQL(PostgreSQL), Microsoft Power BI
 
 ### Objective 
 - Obtain product insights
-- Pricing Patterns, Rating & Review Analysis, Brand Competitiveness
+- Pricing(USD) Patterns, Rating & Review Analysis, Brand Competitiveness
 
 ### 1. Data Cleaning in Power Query
 Before Cleaning: Messy data, currency not standardised, categories unclear...
